@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
+ * Draws an image with variables and proportions instead of coordinates
+ * @JoshuaYin
  *
  */
 class Main {
